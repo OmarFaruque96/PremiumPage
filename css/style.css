@@ -476,6 +476,31 @@ a{
 	color: #fff;
 	font-size: 12px;
 }
-#footer ul li{
+#footer button{
+	margin: 5px;
+	color: white;
+	border-color: white; 
+}
+.footer-icon{
+	margin-top: 10px;
+}
+.footer-icon ul{
+	margin:0;
+	padding: 0;
+	margin-top: 10px;
 	list-style: none;
+}
+.footer-icon ul li{
+	color: #d6d7d9; 
+	font-size: 18px;
+	display: inline-block;
+	padding-right: 10px;
+}
+.footer-icon ul li i{
+	color: #df4a43;
+	display: inline-block;
+	margin-bottom: 3px;
+}
+#footer span{
+	color: #df4a43;
 }
